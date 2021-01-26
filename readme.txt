@@ -56,5 +56,4 @@ first column indicates mean error,
 second column indicates standard deviations (STD), 
 third column indicates time consumption.
 
-
 */
