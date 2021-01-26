@@ -30,7 +30,6 @@ To the beginning of execution:
 
 1. Initialization: Several controling parameters should be assigned.
 
-
 D: dimension of all testing functions
 Xmin: lower bound of search space
 Xmax: upper bound of search space
@@ -41,12 +40,8 @@ runs: repeating times of simulations for obtainning the statistical results
 
 2. Selecting an optmizers to be tested:
 
-
 Line 16 - line 21 are 6 different optimizers (one line for one optimizer).
 Please keep only one optimizers executable and comment out the other five optimizers.
-
-
-
 
 3. Then, run the 'main.m' in Matlab window
 
